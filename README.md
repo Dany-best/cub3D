@@ -7,5 +7,5 @@ This project makes us familiar with raycasting game engine technique
 * Run ``./cub3d maps/map.cub --save`` to make screenshot from current player position
 
 <p align="center">
-  <img src="screenshot.bmp" />
+  <img src="screenshot.png" />
 </p>
